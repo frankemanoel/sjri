@@ -13,7 +13,7 @@ include_once 'includes/menu.inc.php';
    
     <div class="row container">
     <p>&nbsp;</p>
-    <p>&nbsp;Clientes acessíveis</p>
+    <p>&nbsp;</p>
     <form action="bd/create.php" method="post" class="col s12">
     <fieldset class="formulario" style=" padding:15px">
     <legend><img src="imagens/cadastro.png" alt="[imagem]" width="100" /></legend>
