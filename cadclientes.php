@@ -12,7 +12,7 @@ include_once 'includes/menu.inc.php';
 ?>
    
     <div class="row container">
-    <p>&nbsp;Teste</p>
+    <p>&nbsp;</p>
     <p>&nbsp;</p>
     <form action="bd/create.php" method="post" class="col s12">
     <fieldset class="formulario" style=" padding:15px">
