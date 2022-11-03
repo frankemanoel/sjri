@@ -11,7 +11,7 @@
 <body>
 <?php
 
-require "bd/conexao.php";
+require "bd/conexao.php"; 
 
 @session_start();
 
