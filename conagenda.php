@@ -16,6 +16,7 @@ include_once 'includes/menu.inc.php';
   } 
   .naoimpressao{
     visibility: hidden;
+    
   }   
   body {
     visibility: hidden;

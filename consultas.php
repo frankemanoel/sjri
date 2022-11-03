@@ -25,6 +25,7 @@ include_once 'includes/menu.inc.php';
 </tr>
 </thead>
 <tbody>
+    
 <?php include_once 'bd/read.php'; ?>
 </tbody>
 </table>
