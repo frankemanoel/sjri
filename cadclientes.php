@@ -12,6 +12,7 @@ include_once 'includes/menu.inc.php';
 ?>
    
     <div class="row container">
+        <p>Copy from stash</p>
     <p>&nbsp;</p>
     <p>&nbsp;</p>
     <form action="bd/create.php" method="post" class="col s12">
