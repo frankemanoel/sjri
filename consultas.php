@@ -22,6 +22,7 @@ include_once 'includes/menu.inc.php';
 <th>Nome</th>
 <th>Email</th>
 <th>Telefone</th>
+<th>Cidade</th>
 </tr>
 </thead>
 <tbody>
